@@ -1,4 +1,4 @@
-# HELLO WORLD👋, I'M LANA
+# 𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳, 𝙸'𝙼 𝙻𝙰𝙽𝙰
 
  MY STACK 
 
