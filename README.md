@@ -1,4 +1,4 @@
-### <h1 style="font-family:Courier;">HELLO WORLD👋, I'M LANA</h1>
+### <h1 style="font-family: Courier, monospace;">HELLO WORLD👋, I'M LANA</h1>
 
  MY STACK 
 
